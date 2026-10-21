@@ -1,6 +1,6 @@
 export type Post = {
 	id: number;
 	titulo: string;
-	subtitulo: string;
+	conteudo: string;
 	criadoEm: string;
 };
